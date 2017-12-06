@@ -6,7 +6,7 @@
   </head>
   <body>
 
-  <div id="id01" class="modal">
+<div id="id01" class="modal">
 
   <form>
     <div class="imgcontainer">
@@ -15,13 +15,13 @@
 
     <div class="container">
       <label><b>Username</b></label>
-      <input type="text" placeholder="Enter Username" name="uname" required>
+      <input type="text" placeholder="Enter Username" name="uname">
 
       <label><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
-
-      <button type="submit">Login</button>
+      <input type="password" placeholder="Enter Password" name="psw">
       <input type="checkbox" checked="checked"> Remember me
+      <button type="submit">Login</button>
+
     </div>
     <button class="loginBtn loginBtn--facebook">
       Login with Facebook
@@ -31,10 +31,9 @@
       Login with Google
     </button>
 
-    <div class="container" style="background-color:#f1f1f1">
-      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-      <span class="psw">Forgot <a href="#">password?</a></span>
-    </div>
+    <a href="registration.html">
+      Registrati
+    </a>
   </form>
 </div>
 </body>
