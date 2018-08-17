@@ -1,0 +1,36 @@
+STEP 1
+
+-Registrazione
+ -semplice (tutorial)
+ -con facebook e gmail
+ -campo exp / livello di preparazione
+ -password reset
+ -Attivazione utente
+
+
+-Implementazione base(senza accept/decline) degli eventi
+-Login
+-creazione dei ruoli
+-share post su social network 
+-Impostazione del promemoria sul calendario
+-Gruppi di utenti 
+
+
+STEP 2 
+
+-friendList
+-funzioni dei vari ruoli 
+-chat pubblica e privata 
+-funzione logica associata a completamento corsa
+-logica di accept/decline delle sfide 
+-Implementazione googlemaps
+-SearchBar
+-Geolocalizzazione
+
+STEP 3 (extra)
+
+-Creazione di funzione che propone sfida a seconda del livello personale ( alternativamente il moderatore carica una sfida giornaliera per tutti)
+-Gruppi privati/ pubblici
+
+
+
